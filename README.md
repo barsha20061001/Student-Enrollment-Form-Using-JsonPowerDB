@@ -8,6 +8,14 @@ The project demonstrates the use of JsonPowerDB for performing CRUD operations a
 
 ---
 
+## Live Demo
+https://effulgent-moonbeam-206d20.netlify.app/
+
+## GitHub Repository
+https://github.com/your-username/your-repository
+
+---
+
 ## Table of Contents
 
 * Description
