@@ -118,21 +118,30 @@ git clone https://github.com/barsha20061001/Student-Enrollment-Form-Using-JsonPo
 
 ### Initial Form
 
-(Add screenshot here)
+<img width="1918" height="967" alt="1" src="https://github.com/user-attachments/assets/31b69cda-7ad0-4a5c-98d5-fd46e85fd99e" />
+
+---
 
 ### Form Validation
 
-(Add screenshot here)
+<img width="1918" height="962" alt="3" src="https://github.com/user-attachments/assets/efdbf4ff-5248-4e06-9f0e-268b7793e269" />
+
+---
+
 
 ### Record Save
 
-(Add screenshot here)
+<img width="1918" height="972" alt="4" src="https://github.com/user-attachments/assets/a4c4fcd7-685b-4e92-a915-8cb325fbca35" />
 
-### Record Update
 
-(Add screenshot here)
+---
 
-### Connection Error (if applicable)
+### Record Fill
+
+<img width="1817" height="952" alt="2" src="https://github.com/user-attachments/assets/500b277a-9948-4325-8f44-a38e1387ef52" />
+
+
+### Connection Error 
 
 (Add screenshot here)
 
