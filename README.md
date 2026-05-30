@@ -81,7 +81,7 @@ Student-Enrollment-Form-Using-JsonPowerDB/
 1. Clone the repository.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/barsha20061001/Student-Enrollment-Form-Using-JsonPowerDB
 ```
 
 2. Open the project folder.
