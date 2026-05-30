@@ -140,10 +140,12 @@ git clone https://github.com/barsha20061001/Student-Enrollment-Form-Using-JsonPo
 
 <img width="1817" height="952" alt="2" src="https://github.com/user-attachments/assets/500b277a-9948-4325-8f44-a38e1387ef52" />
 
+---
 
 ### Connection Error 
 
-(Add screenshot here)
+<img width="1111" height="923" alt="Screenshot 2026-05-31 025554" src="https://github.com/user-attachments/assets/281d6fb1-fec2-43d4-b5b9-ce9e40df719a" />
+
 
 ---
 
